@@ -19,6 +19,11 @@
 * {
   font-family: 'Pretendard', sans-serif;
   color: #1a1a1a;
+
+  /* flex 가운데 정렬 */
+  .flex-center {
+    @apply flex items-center justify-center;
+  }
 }
 
 body {
