@@ -35,7 +35,7 @@ next14 + dasisyui 기반으로 이루어져 있습니다.
 
 <br />
 
-## 포함되어 있는 구성
+## 포함되어 있는 라이브러리
 
 - React
 - Next.js14
@@ -43,3 +43,11 @@ next14 + dasisyui 기반으로 이루어져 있습니다.
 - Tailwindcss
 - Daisyui
 - Font 파일 (Montserrat, Pretendard)
+- axios
+- zustand
+- react-hook-form
+- prettier-plugin-tailwindcss
+
+## 컴포넌트
+
+## 유틸함수
