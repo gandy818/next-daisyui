@@ -50,4 +50,11 @@ next14 + dasisyui 기반으로 이루어져 있습니다.
 
 ## 컴포넌트
 
-## 유틸함수
+- Toast
+- Modal
+
+## 유틸함수 & hook
+
+- Number
+  - 세자리마다 콤마 찍어주는 함수 (numberWithComma)
+  - 휴대폰 형식으로 하이픈 추가하는 함수 (usePhoneNumber)
